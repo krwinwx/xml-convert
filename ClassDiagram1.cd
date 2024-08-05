@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Класс, описывающий работу с базой данных">
+    <Position X="11.708" Y="1.26" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Специально разработанный элемент управления для отображения таблицы на вкладке">
+    <Position X="2.49" Y="7.865" Height="1.052" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Класс, запускающий программное средство">
+    <Position X="16.547" Y="2.587" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="WindowsFormsApp1.IMNS">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAEAAAABAAAEAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>IMNS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Car">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAAAAAEAAAQAAAAEAAAAAAAAAAAAAABAgA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Carrier">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAEAEAAAABAAAAAAAAAEAAAABQAAAA=</HashCode>
+      <FileName>Carrier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.DB">
+    <Position X="9.5" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AWQAAMQAKGAAgIEAAAAAAABAgACAEAAAAAAQggAAFRE=</HashCode>
+      <FileName>DB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Dispatcher">
+    <Position X="6.25" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAEAQAAAAAAAAAAABAAAAAQAAAAAAA=</HashCode>
+      <FileName>Dispatcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Trips">
+    <Position X="4" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgACBgAAAAYAAAAEgEEQAIAAAECAAAAAgAAAA4AAEgE=</HashCode>
+      <FileName>Trips.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.ConnectionForm">
+    <Position X="9.5" Y="8.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAEAhAAAACAAAACAAAIAAAAQDAAAIEAAAE=</HashCode>
+      <FileName>ConnectionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Form1">
+    <Position X="12.25" Y="5.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>IIEAABGEgDOAAAB4DEWBAAJaBMZ7CRJFCgAGCwAQcAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Resources.Form2">
+    <Position X="8.75" Y="10.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>EAgAACAYACEAAAAoAADAAEASAAAYABAAAAACEAAgIEA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.StartForm">
+    <Position X="7" Y="8" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQACAAABAAAACAAAACAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StartForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.ViewForm">
+    <Position X="5" Y="11" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="WindowsFormsApp1.ViewForm.MyTableEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ViewForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CAAgAAAAACOACBB0AKTAQAGSEAAAIAAgASAgAAAAICg=</HashCode>
+      <FileName>ViewForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.MyTable">
+    <Position X="3" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAIAAAAABEAAAAQAAAACAAEAAAAAgBQAAIAEAAE=</HashCode>
+      <FileName>MyTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Program">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Carrier_Car">
+    <Position X="20.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACBgAAAAQAAQAEAAAAAAAAAAAAAAAAAAAAAAAABgA=</HashCode>
+      <FileName>Carrier_Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Dispatcher_Carrier">
+    <Position X="22.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAgAAAAAAAQAEAAAAAAAAAACAAAAAAAAAAAAABgA=</HashCode>
+      <FileName>Dispatcher_Carrier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.IMNS_Dispatcher">
+    <Position X="24.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAIAAAACAAAAAAAAAAgAAAgI=</HashCode>
+      <FileName>IMNS_Dispatcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

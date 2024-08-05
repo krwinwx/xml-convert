@@ -1,0 +1,179 @@
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\mongocrypt.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DnsClient.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Bson.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.Core.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpCompress.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Snappier.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DnsClient.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Bson.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.Core.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Snappier.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resources.Form2.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProgressForm.resources
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\mongocrypt.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DnsClient.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Bson.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpCompress.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Snappier.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.pdb
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.xml
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DnsClient.xml
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Bson.xml
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Snappier.xml
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resources.Form2.resources
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EPPlus.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EPPlus.xml
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartForm.resources
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ConnectionForm.resources
+C:\Users\krwinwx\Desktop\КУРС 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewForm.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\mongocrypt.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DnsClient.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EPPlus.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Bson.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpCompress.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Snappier.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.pdb
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DnsClient.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EPPlus.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Bson.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Snappier.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ConnectionForm.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartForm.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resources.Form2.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewForm.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

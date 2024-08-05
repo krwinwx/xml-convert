@@ -1,0 +1,199 @@
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\mongocrypt.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\XMLConvert.exe.config
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\XMLConvert.exe
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\XMLConvert.pdb
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DnsClient.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EPPlus.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Bson.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpCompress.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Snappier.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.pdb
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DnsClient.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EPPlus.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Bson.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Snappier.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\XMLConvert.csproj.AssemblyReference.cache
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ConnectionForm.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartForm.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resources.Form2.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewForm.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\XMLConvert.csproj.GenerateResource.cache
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\XMLConvert.csproj.CoreCompileInputs.cache
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\XMLConvert.csproj.CopyComplete
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\XMLConvert.exe
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\XMLConvert.pdb
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\XMLConvert.csproj.AssemblyReference.cache
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\XMLConvert.csproj.GenerateResource.cache
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\XMLConvert.csproj.CoreCompileInputs.cache
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\XMLConvert.exe
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\XMLConvert.pdb
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\XMLConvert.exe.config
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\XMLConvert.exe
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\XMLConvert.pdb
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\AWSSDK.Core.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\DnsClient.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\EPPlus.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\SharpCompress.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\Snappier.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\AWSSDK.Core.pdb
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\AWSSDK.Core.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\DnsClient.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\EPPlus.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\Snappier.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\XMLConvert.csproj.CopyComplete
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutBox1.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutProgram.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DispatcherForm.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TripForm.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ConnectionForm.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartForm.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resources.Form2.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewForm.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.IMNSForm.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CarrierForm.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CarForm.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyTable.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ImnsDispForm.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DispCarrierForm.resources
+C:\Users\krwinwx\Desktop\КУРСАЧ БЭДЭ\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CarrierCarForm.resources
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\XMLConvert.exe.config
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\XMLConvert.exe
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\XMLConvert.pdb
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\AWSSDK.Core.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\DnsClient.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\EPPlus.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\SharpCompress.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\Snappier.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\AWSSDK.Core.pdb
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\AWSSDK.Core.xml
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\DnsClient.xml
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\EPPlus.xml
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\Snappier.xml
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\XMLConvert.csproj.AssemblyReference.cache
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\XMLConvert.csproj.GenerateResource.cache
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\XMLConvert.csproj.CoreCompileInputs.cache
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\XMLConvert.csproj.CopyComplete
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\XMLConvert.exe
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\XMLConvert.pdb
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutProgram.resources
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CarForm.resources
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CarrierCarForm.resources
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CarrierForm.resources
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DispatcherForm.resources
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DispCarrierForm.resources
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ImnsDispForm.resources
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.IMNSForm.resources
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TripForm.resources
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ConnectionForm.resources
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartForm.resources
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resources.Form2.resources
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyTable.resources
+C:\Users\krwinwx\Desktop\XML Convert\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewForm.resources
